@@ -11,3 +11,7 @@ string s = null;
 var k = 0;
 var k1 = "text";
 
+//nullable 
+int? nullableint  = null;
+nullableint = 1;
+Object? o  = null;
